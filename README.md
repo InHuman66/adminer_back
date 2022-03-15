@@ -1,1 +1,0 @@
-# adminer_back
